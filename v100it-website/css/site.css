@@ -5,7 +5,9 @@
  */
 
 /* Toggle Styles */
-
+h1 { font-size: 30px;}
+h3 { font-size:18px; }
+a { color: #c7254e;}
 #wrapper {
     padding-left: 0;
     -webkit-transition: all 0.5s ease;
@@ -35,7 +37,7 @@
 
 #sidebar-wrapper #sidebar-footer {
     position: absolute;
-    bottom: 25px; left: 25px; right:25px;
+    bottom: 25px; left: 20px; right:25px;
     color: white;
     vertical-align: text-bottom;
 }
