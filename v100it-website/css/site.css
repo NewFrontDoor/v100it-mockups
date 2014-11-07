@@ -8,6 +8,8 @@
 h1 { font-size: 30px;}
 h3 { font-size:18px; }
 a { color: #c7254e;}
+
+#sidebar-wrapper a .fa-inverse { color: red; }
 #wrapper {
     padding-left: 0;
     -webkit-transition: all 0.5s ease;
@@ -40,6 +42,7 @@ a { color: #c7254e;}
     bottom: 25px; left: 20px; right:25px;
     color: white;
     vertical-align: text-bottom;
+    background-color: red;
 }
 #sidebar-wrapper #sidebar-footer a { color: white;}
 
